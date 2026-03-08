@@ -25,11 +25,3 @@ Go to the [Releases](../../releases) tab and download the latest `.zip` for your
 > ⚠️ GitHub requires a valid tag to publish a release.
 > Leaving the tag field blank will throw:
 > `tag name can't be blank / published releases must have a valid tag`
-
-### Tag convention
-
-| Tag | Meaning |
-|-----|---------|
-| `v1.0.0-intel` | First stable Intel Mac build |
-| `v1.1.0-intel` | Based on upstream changes |
-| `v1.0.1-intel` | Bug fix on existing build |
